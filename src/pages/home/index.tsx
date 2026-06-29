@@ -1,4 +1,4 @@
-
+import styles from './home.modules.css'
 
 export function Home() {
 
