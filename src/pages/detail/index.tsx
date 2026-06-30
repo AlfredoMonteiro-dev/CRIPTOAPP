@@ -1,9 +1,8 @@
 
 export function Detail() {
-
   return (
     <div>
-        <h1>Página detalhe de moedas</h1>
+      <h1>Página Detalhe da moeda</h1>
     </div>
   )
 }
