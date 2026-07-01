@@ -36,6 +36,7 @@ export function Home() {
                 </Link>
                 </div>
               </td>
+              
               <td className={styles.tdLabel} data-label= "Valor mercado">
                 1T
               </td>
@@ -48,7 +49,7 @@ export function Home() {
                 2B
               </td>
 
-              <td className={styles.tdLabel} data-label= "Mudança 24hrs">
+              <td className={styles.tdLoss} data-label= "Mudança 24hrs">
                 <span>1.20</span>
               </td>
 
